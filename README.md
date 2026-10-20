@@ -1,3 +1,5 @@
+E-Commerce Revenue & Profitability Dashboard
+
 The Business Problem
 E-commerce businesses often struggle to identify which product categories actually drive their revenue and when their peak sales seasons occur. This project provides a complete Python pipeline that cleans raw transaction data, calculates total revenue, and generates an interactive dashboard to help business owners make data-driven inventory and marketing decisions.
 
@@ -12,6 +14,8 @@ Project Overview
 - Tools Used: Python (Pandas, NumPy), Plotly.
 - Output: An interactive HTML dashboard showing Top 10 Revenue Categories and Monthly Revenue Trends.
 
+DashBoard-(Brazilian E-Commerce Revenue Trends.png)
+
 Key Insights Uncovered
 - The Cash Cow: The beleza_saude (Health & Beauty) and relogios_presentes (Watches & Gifts) categories generate the highest revenue.
 - Seasonal Peaks: Revenue peaked massively in November 2017 (Black Friday effect), showing the importance of seasonal inventory planning.
@@ -21,3 +25,5 @@ How to Review This Project
 - Interactive Dashboard: Download the ecommerce_dashboard.html file and open it in any web browser to interact with the charts.
 - The Code: View the olist_analysis.ipynb notebook to see the exact Python code used for data cleaning and visualization.
 - The Data: The olist_cleaned_data.csv is the cleaned dataset, ready for Pivot Tables in Excel or Power BI.
+
+Author: Ebrahim Cader
