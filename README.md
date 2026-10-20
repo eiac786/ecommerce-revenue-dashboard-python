@@ -26,4 +26,4 @@ How to Review This Project
 - The Code: View the olist_analysis.ipynb notebook to see the exact Python code used for data cleaning and visualization.
 - The Data: The olist_cleaned_data.csv is the cleaned dataset, ready for Pivot Tables in Excel or Power BI.
 
-Author: Ebrahim Cader
+Author: Ebrahim 
